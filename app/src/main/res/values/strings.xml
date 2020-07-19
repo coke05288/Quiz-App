@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+
+    <string name="quiz_number">10/10</string>
+    <string name="o_button">O</string>
+    <string name="x_button">X</string>
+    <string name="correct_toast">정답입니다!</string>
+    <string name="incorrect_toast">오답입니다.</string>
+    <string name="clear_toast">모든 문제를 풀었습니다.</string>
+
+    <string name="question_01">달팽이도 이빨이 있다.</string>
+    <string name="question_02">세계에서 제일 처음으로 텔레비전 방송을 한 나라는 영국이다.</string>
+    <string name="question_03">게의 다리는 모두 10개이다.</string>
+    <string name="question_04">딸기는 장미과에 속한다.</string>
+    <string name="question_05">용은 십장생 중 하나이다.</string>
+    <string name="question_06">기린의 목뼈는 모두 7개이고 사람의 목뼈는 5개이다.</string>
+    <string name="question_07">남극에도 우편 번호가 있다.</string>
+    <string name="question_08">한국 돌고래와 미국 돌고래는 말이 통한다.</string>
+    <string name="question_09">남극을 갈 때도 비자가 필요하다.</string>
+    <string name="question_10">사람은 위가 없어도 살 수 있다.</string>
+</resources>
